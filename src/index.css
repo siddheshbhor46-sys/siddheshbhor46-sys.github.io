@@ -1,0 +1,119 @@
+body {
+    background-color: #bfbebe; 
+  color: #000000; 
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.card {
+   background-color: #232f3e;  
+  color: #fff;                 
+  border-radius: 12px;        
+  padding: 16px;           
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+ transform: scale(1.03);
+  box-shadow: 0 6px 20px rgba(255, 189, 105, 0.4);
+}
+
+.card-header {
+  background-color: #37475a;   
+  color: #febd69;             
+  font-weight: bold;
+  padding: 12px;
+  font-size: 1rem;
+}
+
+.card-body {
+  padding: 16px;            
+}
+
+.custom-bg {
+  background: linear-gradient(to bottom, #d9a7c7, #fffcdc);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.navbar {
+  background-color: #131921  
+}
+
+.btn-primary {
+  background-color: #febd69; 
+  border-color: #f3a847;
+  color: #111;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #f3a847;
+  border-color: #e47911;
+}
+
+.btn-quantity {
+  background-color: #febd69;   
+  border: none;
+  color: #111;                 
+  font-weight: bold;
+  border-radius: 6px;
+  padding: 4px 10px;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.btn-quantity:hover {
+  background-color: #f3a847;   
+  transform: scale(1.1);       
+}
+
+.btn-remove {
+  background-color: #d9534f;  
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 6px;
+  padding: 6px 12px;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.btn-remove:hover {
+  background-color: #c9302c;   
+  box-shadow: 0 0 12px rgba(217, 83, 79, 0.6); 
+  transform: scale(1.05);      
+}
+
+.btn-remove i {
+  margin-right: 6px;           
+}
+
+.text-rating-green {
+  color: #28a745; 
+  font-size: 1.1rem;
+}
+
+.footer {
+  background-color: #f8f9fa;   
+  border-top: 1px solid #ddd;  
+  padding: 8px 12px;           
+  font-size: 0.9rem;           
+  min-height: auto;    
+    transition: transform 0.3s ease-in-out;   
+
+}
+
+
+.footer-hidden {
+  transform: translateY(100%); 
+}
+
+
+
+
