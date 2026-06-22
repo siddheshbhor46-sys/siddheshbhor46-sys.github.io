@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/(Sid)/static/css/main.7a10fd0d.css",
-    "main.js": "/(Sid)/static/js/main.e47e3157.js",
-    "static/js/453.3c1fb797.chunk.js": "/(Sid)/static/js/453.3c1fb797.chunk.js",
-    "static/media/iPhone15.jpg": "/(Sid)/static/media/iPhone15.f9ded207f6cbcdb58b02.jpg",
-    "static/media/Macbookair.jpg": "/(Sid)/static/media/Macbookair.8bd9bb11bfe9b7f3e915.jpg",
-    "static/media/iphone16.jpg": "/(Sid)/static/media/iphone16.b3aab7da607f183b8875.jpg",
-    "static/media/bootstrap-icons.woff?": "/(Sid)/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/iphone14.jpg": "/(Sid)/static/media/iphone14.14050f849dc5d79f2aa9.jpg",
-    "static/media/bootstrap-icons.woff2?": "/(Sid)/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "static/media/AirPodcase.jpg": "/(Sid)/static/media/AirPodcase.7c1cf430fde8e89cbf13.jpg",
-    "index.html": "/(Sid)/index.html",
-    "main.7a10fd0d.css.map": "/(Sid)/static/css/main.7a10fd0d.css.map",
-    "main.e47e3157.js.map": "/(Sid)/static/js/main.e47e3157.js.map",
-    "453.3c1fb797.chunk.js.map": "/(Sid)/static/js/453.3c1fb797.chunk.js.map"
+    "main.css": "/Sid/static/css/main.bfc895db.css",
+    "main.js": "/Sid/static/js/main.20b32ba5.js",
+    "static/js/453.3c1fb797.chunk.js": "/Sid/static/js/453.3c1fb797.chunk.js",
+    "static/media/iPhone15.jpg": "/Sid/static/media/iPhone15.f9ded207f6cbcdb58b02.jpg",
+    "static/media/Macbookair.jpg": "/Sid/static/media/Macbookair.8bd9bb11bfe9b7f3e915.jpg",
+    "static/media/iphone16.jpg": "/Sid/static/media/iphone16.b3aab7da607f183b8875.jpg",
+    "static/media/bootstrap-icons.woff?": "/Sid/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/iphone14.jpg": "/Sid/static/media/iphone14.14050f849dc5d79f2aa9.jpg",
+    "static/media/bootstrap-icons.woff2?": "/Sid/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/AirPodcase.jpg": "/Sid/static/media/AirPodcase.7c1cf430fde8e89cbf13.jpg",
+    "index.html": "/Sid/index.html",
+    "main.bfc895db.css.map": "/Sid/static/css/main.bfc895db.css.map",
+    "main.20b32ba5.js.map": "/Sid/static/js/main.20b32ba5.js.map",
+    "453.3c1fb797.chunk.js.map": "/Sid/static/js/453.3c1fb797.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a10fd0d.css",
-    "static/js/main.e47e3157.js"
+    "static/css/main.bfc895db.css",
+    "static/js/main.20b32ba5.js"
   ]
 }
